@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi There!!🙌
+I'm rii125.I'm newbie engineer.
 
-<!--
-**rii125/rii125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technology stack
+[![My stack](https://skillicons.dev/icons?i=java,html,css,git,github&theme=dark)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+(I'm not web engineer...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently studying
+[![My studying](https://skillicons.dev/icons?i=docker,cs,js,ts,py,godot&theme=dark)](https://skillicons.dev)
+
+I want to master web development, backend development, and game creation.
+
+## Environment
+[![My environment](https://skillicons.dev/icons?i=windows,vscode,visualstudio,idea,discord&theme=dark)](https://skillicons.dev)
+
+## Blog
+[zenn - rii_125](https://zenn.dev/rii_125)
+
+## ↓ I want you to see it ↓
+[Juno language - GitHub](https://github.com/rii125/Juno)
