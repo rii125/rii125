@@ -19,3 +19,6 @@ I want to master web development, backend development, and game creation.
 
 ## ↓ I want you to see it ↓
 [Juno language - GitHub](https://github.com/rii125/Juno)
+
+
+Pleace Juno repository for star.
